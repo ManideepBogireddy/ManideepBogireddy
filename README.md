@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Hi, I'm Manideep Bogireddy!  
+🚀 Aspiring **Java Frontend Developer** | Learning **Web Development**  
 
-<!--
-**ManideepBogireddy/ManideepBogireddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **BTech ECE Student** | Passionate about **Java, HTML, CSS, JavaScript**  
+🔹 Building projects & learning **Frontend Development**  
+🔹 Exploring new technologies & Open Source  
 
-Here are some ideas to get you started:
+### 🔥 My Skills  
+💻 **Languages:** Java, HTML, CSS, JavaScript  
+🛠️ **Tools:** VS Code, Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects  
+- 🚀 **[Amazon Clone](#)** – A replica of Amazon's UI using HTML & CSS  
+- 📊 **[Portfolio Website](#)** – Personal portfolio showcasing my work  
+
+### 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manideep-bogireddy-3166b2353)  
