@@ -3,7 +3,6 @@
 
 🔹 **BTech ECE Student** | Passionate about **Java, HTML, CSS, JavaScript**  
 🔹 Building projects & learning **Frontend Development**  
-🔹 Exploring new technologies & Open Source  
 
 ### 🔥 My Skills  
 💻 **Languages:** Java, HTML, CSS, JavaScript  
